@@ -23,7 +23,7 @@ sample();
 
 [npm-image]: https://img.shields.io/npm/v/samples.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/samples
-[circle-image]: https://img.shields.io/circleci/project/stevenmiller888/samples.svg
-[circle-url]: https://circleci.com/gh/stevenmiller888/samples
+[circle-image]: https://img.shields.io/circleci/project/stevenmiller888/sample.svg
+[circle-url]: https://circleci.com/gh/stevenmiller888/sample
 [license-image]: https://img.shields.io/npm/l/express.svg
 [license-url]: https://tldrlegal.com/license/mit-license
